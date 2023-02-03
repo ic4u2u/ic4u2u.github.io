@@ -112,22 +112,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yong7234@gmail.com"
+     #  url: "mailto:yong7234@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ic4u2u.github.io"
+      # url: "https://ic4u2u.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/ic4u2u"
+      # url: "https://facebook.com/ic4u2u"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ic4u2u"
+      # url: "https://github.com/ic4u2u"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ic4u2u"
+      # url: "https://instagram.com/ic4u2u"
 
 # Site Footer
 footer:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/ic4u2u"
+      # url: "https://facebook.com/ic4u2u"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -145,7 +145,7 @@ footer:
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ic4u2u"
+      # url: "https://instagram.com/ic4u2u"
 
 
 # Reading Files
