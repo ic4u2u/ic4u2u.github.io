@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "이용주 블로그"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "RabbitMan 환갑토끼"
 description              : "An amazing website."
 url                      : "https://ic4u2u.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "RabbitMan"
+    shortname            : "RabbitMan 환갑토끼"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
